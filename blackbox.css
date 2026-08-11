@@ -20,7 +20,7 @@
 .bbimgpic{
   width: 40px;
   aspect-ratio: 1/1;
-  border-radius: 500px;
+  border-radius: 10px;
   box-sizing: border-box;
   filter: brightness(0.8);
 }
