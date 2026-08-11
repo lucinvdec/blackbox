@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+.bbbox{
+  max-width: 600px;
+  min-width: 500px;
+  width: 90%;
+  margin: auto;
+  font-family: 'Google Sans';
+  font-size: 15px;
+  color: #e3e3e3;
+  box-sizing: border-box;
+  padding: 40px;
+  filter: saturate(0.5);
+}
+
+.bbflex{
+  display:flex;
+}
+
+.bbimgpic{
+  width: 40px;
+  aspect-ratio: 1/1;
+  border-radius: 500px;
+  box-sizing: border-box;
+  filter: brightness(0.8);
+}
+
+.bbheadtx{
+  margin-top: 7px;
+  margin-left: 14px;
+}
+
+.bbname{
+  font-size: 14px;
+  color:#9f9f9f;
+  text-shadow: 0px 1px 5px #000000;
+  line-height: 1;
+}
+
+.bbrace{
+  font-size: 12px;
+  font-style: oblique;
+  color:#666;
+}
+
+.bbrpbox{
+  text-align: justify;
+  margin-top:20px;
+  text-shadow: 1px 1px 5px #000;
+}
+
+.bbpsbox{
+  font-style: oblique;
+  text-align: right;
+  color: #ffffff69;
+  margin-top:20px;
+  font-weight: 600;
+  margin-right: 5px;
+}
